@@ -43,10 +43,10 @@ Whether you're a solo developer looking for immediate code feedback or a team wa
 ![Homepage](/homepage.png)
 
 ### 📊 Dashboard
-![Dashboard](assets/dashboard.png)
+![Dashboard](/dashboard.png)
 
 ### ⚡ Features
-![Features](assets/features.png)
+![Features](/features.png)
 
 ---
 
