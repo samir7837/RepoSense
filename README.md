@@ -480,5 +480,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <p align="center">
-  Built with ❤️ using FastAPI, React, and OpenAI &nbsp;|&nbsp; RepoSense © 2024
+  Built with ❤️ using FastAPI, React, and OpenAI &nbsp;|&nbsp; RepoSense © 2026
 </p>
