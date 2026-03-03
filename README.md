@@ -40,7 +40,7 @@ Whether you're a solo developer looking for immediate code feedback or a team wa
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](assets/homepage.png)
+![Homepage](/homepage.png)
 
 ### 📊 Dashboard
 ![Dashboard](assets/dashboard.png)
